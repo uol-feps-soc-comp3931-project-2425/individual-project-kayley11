@@ -1,0 +1,14 @@
+2025-03-26 11:07:04,838 - ModelInterpretability - INFO - Patched scikit-learn for ELI5 compatibility
+2025-03-26 16:04:47,486 - ModelInterpretability - INFO - Patched scikit-learn for ELI5 compatibility
+2025-03-26 16:13:20,891 - ModelInterpretability - INFO - Patched scikit-learn for ELI5 compatibility
+2025-03-26 22:02:44,339 - ModelInterpretability - INFO - Added inspect.getargspec compatibility function for Python 3.12+
+2025-03-26 22:02:44,340 - ModelInterpretability - INFO - Patched scikit-learn for ELI5 compatibility
+2025-03-26 22:40:25,011 - ModelInterpretability - INFO - Patched scikit-learn for ELI5 compatibility
+2025-03-26 22:40:25,011 - ModelInterpretability - INFO - 添加了inspect.getargspec兼容性补丁
+2025-03-26 22:43:32,370 - ModelInterpretability - INFO - Patched scikit-learn for ELI5 compatibility
+2025-03-26 22:43:32,371 - ModelInterpretability - INFO - 添加了inspect.getargspec兼容性补丁
+2025-03-26 22:45:25,565 - ModelInterpretability - INFO - Patched scikit-learn for ELI5 compatibility
+2025-03-26 22:45:25,566 - ModelInterpretability - INFO - 添加了inspect.getargspec兼容性补丁
+2025-03-26 22:45:25,578 - ModelInterpretability - INFO - 创建了虚拟的jinja2.ext模块
+2025-03-26 22:45:25,578 - ModelInterpretability - INFO - 添加了jinja2.ext.with_兼容性补丁
+2025-03-26 23:02:34,664 - ModelInterpretability - INFO - Applied global inspect patch for getargspec compatibility with Python 3.12
